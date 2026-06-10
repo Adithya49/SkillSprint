@@ -1,0 +1,27 @@
+Senior AI Engineer - Interview Intelligence Platform
+
+About the Role
+We are hiring a Senior AI Engineer to build production-grade AI applications that help job seekers improve resumes, prepare for interviews, and understand hiring readiness. The ideal candidate can move from product requirements to reliable AI workflows and measurable user outcomes.
+
+Responsibilities
+- Build Python backend services and Streamlit dashboards for AI-powered user workflows.
+- Design LLM-based agents for resume parsing, job description analysis, skill gap detection, and interview question generation.
+- Create REST APIs with FastAPI or Flask and integrate OpenAI or Gemini APIs.
+- Build evaluation workflows for model outputs, prompt quality, and user-facing recommendations.
+- Collaborate with product, design, and data teams to ship polished MVPs quickly.
+- Use SQL and Pandas to analyze product usage, user readiness metrics, and model performance.
+- Package services with Docker and deploy to AWS.
+
+Required Qualifications
+- 4+ years of software engineering or AI engineering experience.
+- Strong Python, SQL, REST API, and data handling skills.
+- Hands-on experience with LLMs, prompt engineering, RAG, or multi-agent workflows.
+- Experience with Streamlit, Plotly, or similar dashboard frameworks.
+- Ability to explain model decisions and create trustworthy user-facing AI experiences.
+- Familiarity with Docker, AWS, CI/CD, and production monitoring.
+
+Preferred Qualifications
+- Experience with LangChain or LangGraph.
+- Experience designing system architecture for AI applications.
+- Prior work on hiring, recruiting, career, education, or productivity products.
+

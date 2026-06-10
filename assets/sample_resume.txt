@@ -1,0 +1,39 @@
+Ananya Rao
+AI Product Engineer
+Email: ananya.rao@example.com | GitHub: github.com/ananyarao | LinkedIn: linkedin.com/in/ananyarao
+
+Professional Summary
+AI product engineer with 3+ years of experience building Python, FastAPI, Streamlit, and machine learning applications for analytics and automation. Experienced in LLM workflows, retrieval augmented generation, SQL data pipelines, dashboards, and user-centered product delivery.
+
+Skills
+Python, SQL, FastAPI, Flask, Streamlit, Pandas, NumPy, Scikit-learn, Machine Learning, NLP, OpenAI API, LangChain, REST APIs, Plotly, Docker, Git, AWS, CI/CD, Agile, Product Thinking
+
+Experience
+AI Product Engineer, Lumina Analytics
+June 2023 - Present
+- Built a Streamlit analytics copilot using Python, OpenAI API, LangChain, SQL, and Plotly, reducing analyst research time by 38%.
+- Designed REST APIs with FastAPI to serve model recommendations to internal dashboards with 99.5% monthly uptime.
+- Created evaluation workflows for LLM responses, improving answer quality from 72% to 86% based on human review.
+- Partnered with product managers and designers to convert ambiguous customer requests into roadmap-ready AI features.
+
+Machine Learning Engineer, FinSight Labs
+July 2021 - May 2023
+- Developed fraud risk models using Python, Pandas, Scikit-learn, and SQL, improving precision by 21%.
+- Built ETL jobs and data validation checks for daily model retraining pipelines.
+- Deployed Flask APIs for batch scoring and collaborated with DevOps engineers on Docker packaging.
+- Created executive dashboards in Plotly to explain model performance and business impact.
+
+Projects
+Resume Intelligence Platform
+- Designed an LLM-powered resume analysis prototype that compared candidate profiles to job descriptions and generated interview prep plans.
+
+Customer Support RAG Assistant
+- Built a retrieval augmented generation assistant over product documentation using embeddings, chunking, and answer evaluation.
+
+Education
+B.Tech in Computer Science, National Institute of Technology
+
+Certifications
+AWS Cloud Practitioner
+DeepLearning.AI Prompt Engineering for Developers
+
